@@ -1,6 +1,4 @@
 ---
-layout: cv
-title: Steffany Brown's Resume
 ---
 # Steffany Brown
 ### Youth Program Coordinator
