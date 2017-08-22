@@ -1,5 +1,3 @@
----
----
 # Steffany Brown
 ### Youth Program Coordinator
 
