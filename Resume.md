@@ -52,7 +52,7 @@ title: Steffany Brown's Resume
 
 #### `01/2015 - Present` Board Member, *Homes First!*
 - Served as	Board Secretary	2015-2016
-- Provided	strategic	insight	and	direction	based	in	the	Housing	First	model
+- Helped provide affordable rental housing for 150+ individuals
 
 
 ## Presentations
