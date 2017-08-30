@@ -1,10 +1,8 @@
 # Steffany Brown
 ### Youth Program Coordinator
 
-<div id="contact">
 <a href="mailto:steffannbrown@gmail.com">steffannbrown@gmail.com</a>
 | 913.205.0150 | 1714 Overhulse Rd NW, Olympia, WA 98502
-</div>
 
 
 ## Professional Experience
