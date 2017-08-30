@@ -33,7 +33,7 @@ title: Steffany Brown's Resume
 - Provided excelled customer service
 
 
-#### `2/2011 - 8/2011` __Peer Adviser__, *Office of Multicultural Affairs at Kansas University*
+#### `2/2011 - 8/2011` __Temporary Peer Adviser__, *Office of Multicultural Affairs at Kansas University*
 
 - Assisted 100+ diverse incoming freshmen in acclimating to college life and developing course plans
 - Guided first-generation students through course steps, including registration
@@ -41,9 +41,11 @@ title: Steffany Brown's Resume
 
 ## Education
 
-#### `6/2017` Liberal Arts, B.A., *__The Evergreen State College__*
+#### `9/2016 - 4/2017` Liberal Arts, B.A., *__The Evergreen State College__*
 - Interdisciplinary	degree with	emphasis in sociology and political economy 
 - Completed advanced coursework in critical race theory, American studies, and feminist political economy
+
+#### `1/2011 - 5/2014` *__The University of Kansas__*
 
 
 ## Volunteer Experience
