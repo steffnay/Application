@@ -13,11 +13,24 @@ title: Steffany Brown's Resume
 
 ## Professional Experience
 
-#### `2015 - Current` __Girls Without Limits! Program Coordinator__, *YWCA of Olympia*
+#### `9/2015 - Current` __Girls Without Limits! Program Coordinator__, *YWCA of Olympia*
 
 - Designed	and	facilitated	25	gender-responsive Science, Technology, Engineering, & Math camps for 200+ middle-school girls and gender nonconforming youth
 - Integrated anti-oppression, cultural relevancy, and social justice framework into	hands-on curriculum
 - Supervised 4 program staff, 2 interns, 15+ volunteers
+
+
+#### `7/2014 - 8/2015` __Server__, *The Tofu Hut*
+
+- Provided excellent customer service
+- Multitasked
+
+
+#### `2/2012 - 5/2014` __Senior Barista & Bartender__, *The Bourgeois Pig*
+
+- Prepared gourmet coffee and craft cocktails
+- Contributed to menu design
+- Provided excelled customer service
 
 
 #### `2/2011 - 8/2011` __Peer Adviser__, *Office of Multicultural Affairs at Kansas University*
