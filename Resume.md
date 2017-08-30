@@ -12,11 +12,11 @@
 #### `9/2015 - Current` __Girls Without Limits! Program Coordinator__, *YWCA of Olympia*
 
 - Designed	and	facilitated	25	gender-responsive Science, Technology, Engineering, & Math camps for 200+ middle school girls and gender nonconforming youth
-- Integrated anti-oppression, cultural relevancy, and social justice framework into	hands-on curriculum
+- Integrated anti-oppression, cultural relevancy, and social justice frameworks into	hands-on curriculum
 - Supervised 4 program staff, 2 interns, 15+ volunteers
 
 
-#### `7/2014 - 8/2015` __Server__, *The Tofu Hut*
+#### `6/2014 - 8/2015` __Server__, *The Tofu Hut*
 
 - Provided excellent customer service
 - Multitasked
@@ -66,6 +66,6 @@
 
 <!-- ### Footer
 
-Last updated: August 22, 2017 -->
+Last updated: August 29, 2017 -->
 
 
