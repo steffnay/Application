@@ -64,8 +64,5 @@
 
 
 
-<!-- ### Footer
-
-Last updated: August 29, 2017 -->
 
 
